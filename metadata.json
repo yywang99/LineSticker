@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio版 One Click Sticker",
+  "description": "Transform photos into localized Traditional Chinese LINE stickers using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
